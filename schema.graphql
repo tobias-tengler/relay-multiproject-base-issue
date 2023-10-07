@@ -1,0 +1,12 @@
+type Query {
+  user: User!
+}
+
+type User {
+  name: String!
+  courses: [Course!]!
+}
+
+type Course {
+  title: String!
+}

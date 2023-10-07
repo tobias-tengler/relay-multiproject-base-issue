@@ -1,0 +1,19 @@
+{
+  "name": "relay-multiproject-base-issue",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "relay": "relay-compiler"
+  },
+  "dependencies": {
+    "relay-runtime": "15.0.0"
+  },
+  "devDependencies": {
+    "@types/relay-runtime": "14.1.14",
+    "babel-plugin-relay": "15.0.0",
+    "relay-compiler": "15.0.0",
+    "typescript": "^5.0.2",
+    "vite-plugin-relay": "2.0.0"
+  }
+}
