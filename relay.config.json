@@ -11,6 +11,7 @@
       "eagerEsModules": true
     },
     "derived-project": {
+      "base": "base-project",
       "schema": "schema.graphql",
       "language": "typescript",
       "eagerEsModules": true
