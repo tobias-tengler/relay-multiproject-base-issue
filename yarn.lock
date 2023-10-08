@@ -611,10 +611,10 @@ regenerator-runtime@^0.14.0:
   resolved "https://registry.yarnpkg.com/regenerator-runtime/-/regenerator-runtime-0.14.0.tgz#5e19d68eb12d486f797e15a3c6a918f7cec5eb45"
   integrity sha512-srw17NI0TUWHuGa5CFGGmhfNIeja30WMBfbslPNhf6JrqQlLN5gcrvig1oqPxiVaXb0oW0XRKtH6Nngs5lKCIA==
 
-relay-compiler@15.0.0:
-  version "15.0.0"
-  resolved "https://registry.yarnpkg.com/relay-compiler/-/relay-compiler-15.0.0.tgz#dafe2227ffe0cda642707a113a52f6c310c5f689"
-  integrity sha512-19gIIdrVe/lk7Dkz/hqxpBd54bBDWAKG+kR5ael+xznJPdjlr/rlAmh5Tqi6Mgf/wiEQGdtKiZqeNdOW2/wVRw==
+relay-compiler@^0.0.0-main-72f38f5b:
+  version "0.0.0-main-72f38f5b"
+  resolved "https://registry.yarnpkg.com/relay-compiler/-/relay-compiler-0.0.0-main-72f38f5b.tgz#5180cf04ce3c9474fd1744e693433d6dfd814706"
+  integrity sha512-VsQSEdJvBjBJGprdpDWeqUd+Z3QyGrlXoUfKBsS1YK30+HdCcKOZLr9qqVioovoP800Ox4BeyPA5eLoLW6R6eQ==
 
 relay-runtime@15.0.0:
   version "15.0.0"
