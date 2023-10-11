@@ -7,13 +7,13 @@
   "projects": {
     "base-project": {
       "schema": "schema.graphql",
-      "language": "typescript",
+      "language": "javascript",
       "eagerEsModules": true
     },
     "derived-project": {
       "base": "base-project",
       "schema": "schema.graphql",
-      "language": "typescript",
+      "language": "javascript",
       "eagerEsModules": true
     }
   },
